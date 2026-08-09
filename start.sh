@@ -1,0 +1,3 @@
+#!/bin/bash
+vmpt="8001" uuid="1da906c3-2112-4a69-ad31-9ad9a3f6c7ed" argo="vmpt" agn="jp.yunka.ggff.net" agk="eyJhIjoiODJhMjdiODRjNzJkYmIyMDlmOTg4ZGQ1NzE2NmRiZjMiLCJ0IjoiOTQzMjM4ZTAtYThlMi00ZDhlLWE0ZmYtZmNjNjgzNjc3MjNiIiwicyI6Ik5HVTBPRGhoTlRNdE9EWmtaaTAwWkdVeExXRTRORGd0TWpjelptSTBNakptTnpGaiJ9" bash <(curl -Ls https://raw.githubusercontent.com/yonggekkk/argosbx/main/argosbx.sh) > /dev/null 2>&1
+tail -f /dev/null
